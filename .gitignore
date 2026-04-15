@@ -113,7 +113,7 @@ Thumbs.db
 *.psd
 *.fbx
 
-#Packages
+#Packages wont be pushed but the files that are needed for downloading the packages is included
 /[Pp]ackages/*
 !/[Pp]ackages/manifest.json
 !/[Pp]ackages/packages-lock.json
